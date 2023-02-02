@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @umarawais45
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning swiftUI
 - 💞️ I’m looking to collaborate on open source libraries
 - 📫 How to reach me -> http://linkedin.com/in/umarawais/, umar.awais45@gmail.com
 
